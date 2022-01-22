@@ -1,0 +1,4 @@
+dataset: EngyTime
+--- execution time: 0.031914472579956055 seconds ---
+--- rand index score: 0.8913785866910867 ---
+

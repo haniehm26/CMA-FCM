@@ -1,0 +1,50 @@
+dataset: Target
+--- cost function: -105.98201865199235 ---
+--- execution time: 6.923656225204468 seconds ---
+--- rand index score: 0.5967439582524108 ---
+
+dataset: Target
+--- cost function: -313.70768844985605 ---
+--- execution time: 7.279025316238403 seconds ---
+--- rand index score: 0.6246466147636499 ---
+
+dataset: Target
+--- cost function: -29.189160108587657 ---
+--- execution time: 7.457494258880615 seconds ---
+--- rand index score: 0.7248374512353706 ---
+
+dataset: Target
+--- cost function: -98.33727398670908 ---
+--- execution time: 6.398738861083984 seconds ---
+--- rand index score: 0.6832958978602671 ---
+
+dataset: Target
+--- cost function: -202.1478998135717 ---
+--- execution time: 6.83954930305481 seconds ---
+--- rand index score: 0.6713593298768852 ---
+
+dataset: Target
+--- cost function: -378.44282276432614 ---
+--- execution time: 6.9346678256988525 seconds ---
+--- rand index score: 0.6525931805515681 ---
+
+dataset: Target
+--- cost function: -84.72547453921698 ---
+--- execution time: 8.903982400894165 seconds ---
+--- rand index score: 0.7915288872375998 ---
+
+dataset: Target
+--- cost function: -99.95153918577944 ---
+--- execution time: 7.1951189041137695 seconds ---
+--- rand index score: 0.7188961883370206 ---
+
+dataset: Target
+--- cost function: -213.23907604828264 ---
+--- execution time: 6.979313611984253 seconds ---
+--- rand index score: 0.7103980544812795 ---
+
+dataset: Target
+--- cost function: -306.8388419614548 ---
+--- execution time: 6.903728723526001 seconds ---
+--- rand index score: 0.5722425818654687 ---
+

@@ -1,0 +1,4 @@
+dataset: GolfBall
+--- execution time: 0.001991748809814453 seconds ---
+--- rand index score: 1.0 ---
+

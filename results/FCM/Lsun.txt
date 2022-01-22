@@ -1,0 +1,4 @@
+dataset: Lsun
+--- execution time: 0.01400136947631836 seconds ---
+--- rand index score: 0.7701629072681704 ---
+

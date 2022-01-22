@@ -1,0 +1,4 @@
+dataset: Hepta
+--- execution time: 0.008975982666015625 seconds ---
+--- rand index score: 1.0 ---
+

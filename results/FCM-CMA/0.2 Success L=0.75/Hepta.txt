@@ -1,0 +1,50 @@
+dataset: Hepta
+--- cost function: -328.3084709993659 ---
+--- execution time: 2.843940258026123 seconds ---
+--- rand index score: 0.924125905392113 ---
+
+dataset: Hepta
+--- cost function: -217.04106464188112 ---
+--- execution time: 3.2728230953216553 seconds ---
+--- rand index score: 0.8750335330412233 ---
+
+dataset: Hepta
+--- cost function: -316.31945303630323 ---
+--- execution time: 3.1287710666656494 seconds ---
+--- rand index score: 0.883305016542967 ---
+
+dataset: Hepta
+--- cost function: -227.60445554680746 ---
+--- execution time: 2.91983699798584 seconds ---
+--- rand index score: 0.9052132701421801 ---
+
+dataset: Hepta
+--- cost function: -216.4021531681442 ---
+--- execution time: 2.9698901176452637 seconds ---
+--- rand index score: 0.9286416882768488 ---
+
+dataset: Hepta
+--- cost function: -355.4827363327588 ---
+--- execution time: 2.807074785232544 seconds ---
+--- rand index score: 0.9557810963068943 ---
+
+dataset: Hepta
+--- cost function: -217.2480757853109 ---
+--- execution time: 2.8459434509277344 seconds ---
+--- rand index score: 0.9495663060001789 ---
+
+dataset: Hepta
+--- cost function: -437.7116866639594 ---
+--- execution time: 2.938117504119873 seconds ---
+--- rand index score: 0.9946347134042743 ---
+
+dataset: Hepta
+--- cost function: -285.97940530363167 ---
+--- execution time: 3.2124574184417725 seconds ---
+--- rand index score: 0.9283287132254314 ---
+
+dataset: Hepta
+--- cost function: -302.2685197888013 ---
+--- execution time: 2.9555437564849854 seconds ---
+--- rand index score: 0.9501028346597514 ---
+

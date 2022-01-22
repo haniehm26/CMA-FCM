@@ -1,0 +1,50 @@
+dataset: MySet2
+--- cost function: -88.40572868836739 ---
+--- execution time: 122.07056832313538 seconds ---
+--- rand index score: 0.8147523650528659 ---
+
+dataset: MySet2
+--- cost function: -74.30267369035141 ---
+--- execution time: 119.21034812927246 seconds ---
+--- rand index score: 0.810534223706177 ---
+
+dataset: MySet2
+--- cost function: -72.27379801052098 ---
+--- execution time: 47.22864484786987 seconds ---
+--- rand index score: 0.8004062326099054 ---
+
+dataset: MySet2
+--- cost function: -14.500841679093355 ---
+--- execution time: 45.62405014038086 seconds ---
+--- rand index score: 0.7585809682804674 ---
+
+dataset: MySet2
+--- cost function: -50.28376096383977 ---
+--- execution time: 46.251615047454834 seconds ---
+--- rand index score: 0.7653589315525876 ---
+
+dataset: MySet2
+--- cost function: -0.03282700489808121 ---
+--- execution time: 45.99895715713501 seconds ---
+--- rand index score: 0.7873344462993879 ---
+
+dataset: MySet2
+--- cost function: -8.291851456807308 ---
+--- execution time: 48.107290267944336 seconds ---
+--- rand index score: 0.8435392320534224 ---
+
+dataset: MySet2
+--- cost function: -0.4601230768314508 ---
+--- execution time: 45.00861191749573 seconds ---
+--- rand index score: 0.8366666666666667 ---
+
+dataset: MySet2
+--- cost function: -4.757541580917405 ---
+--- execution time: 46.92917275428772 seconds ---
+--- rand index score: 0.7722982749026155 ---
+
+dataset: MySet2
+--- cost function: -18.114827520480276 ---
+--- execution time: 46.30906105041504 seconds ---
+--- rand index score: 0.8259821925431274 ---
+

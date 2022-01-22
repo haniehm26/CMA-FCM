@@ -1,0 +1,50 @@
+dataset: TwoDiamonds
+--- cost function: 684.7925306984522 ---
+--- execution time: 6.02278208732605 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: TwoDiamonds
+--- cost function: 760.1261548898696 ---
+--- execution time: 5.675257444381714 seconds ---
+--- rand index score: 0.9752816020025031 ---
+
+dataset: TwoDiamonds
+--- cost function: 988.5278184398113 ---
+--- execution time: 5.079395532608032 seconds ---
+--- rand index score: 0.8981508135168961 ---
+
+dataset: TwoDiamonds
+--- cost function: 756.5363396085413 ---
+--- execution time: 5.5997350215911865 seconds ---
+--- rand index score: 0.9975 ---
+
+dataset: TwoDiamonds
+--- cost function: 924.1922590746074 ---
+--- execution time: 5.08642053604126 seconds ---
+--- rand index score: 0.9850938673341677 ---
+
+dataset: TwoDiamonds
+--- cost function: 585.2533822158233 ---
+--- execution time: 5.3090081214904785 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: TwoDiamonds
+--- cost function: 1068.4542075259246 ---
+--- execution time: 5.167330026626587 seconds ---
+--- rand index score: 0.9208041301627033 ---
+
+dataset: TwoDiamonds
+--- cost function: 657.3955568318477 ---
+--- execution time: 5.14109468460083 seconds ---
+--- rand index score: 0.9631570713391739 ---
+
+dataset: TwoDiamonds
+--- cost function: 882.5152662070539 ---
+--- execution time: 5.106252431869507 seconds ---
+--- rand index score: 0.9583510638297872 ---
+
+dataset: TwoDiamonds
+--- cost function: 770.4559743748337 ---
+--- execution time: 3.8764407634735107 seconds ---
+--- rand index score: 0.9440832290362954 ---
+

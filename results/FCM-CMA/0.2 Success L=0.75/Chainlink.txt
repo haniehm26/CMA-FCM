@@ -1,0 +1,50 @@
+dataset: Chainlink
+--- cost function: -518.8523017636861 ---
+--- execution time: 6.149176597595215 seconds ---
+--- rand index score: 0.5427607607607607 ---
+
+dataset: Chainlink
+--- cost function: -328.8557310466608 ---
+--- execution time: 5.81610894203186 seconds ---
+--- rand index score: 0.5445445445445446 ---
+
+dataset: Chainlink
+--- cost function: -123.30206855863685 ---
+--- execution time: 6.0047972202301025 seconds ---
+--- rand index score: 0.5439459459459459 ---
+
+dataset: Chainlink
+--- cost function: -55.35548779529222 ---
+--- execution time: 6.678185939788818 seconds ---
+--- rand index score: 0.5433513513513514 ---
+
+dataset: Chainlink
+--- cost function: -114.73914774225489 ---
+--- execution time: 6.128934144973755 seconds ---
+--- rand index score: 0.5445445445445446 ---
+
+dataset: Chainlink
+--- cost function: -30.588109837594516 ---
+--- execution time: 8.037722826004028 seconds ---
+--- rand index score: 0.5035535535535536 ---
+
+dataset: Chainlink
+--- cost function: -52.16957453986481 ---
+--- execution time: 5.460787057876587 seconds ---
+--- rand index score: 0.546978978978979 ---
+
+dataset: Chainlink
+--- cost function: -245.77464295897312 ---
+--- execution time: 5.610782861709595 seconds ---
+--- rand index score: 0.500078078078078 ---
+
+dataset: Chainlink
+--- cost function: -292.6249835777554 ---
+--- execution time: 6.384212493896484 seconds ---
+--- rand index score: 0.5153573573573573 ---
+
+dataset: Chainlink
+--- cost function: -300.33094406362306 ---
+--- execution time: 6.21697735786438 seconds ---
+--- rand index score: 0.5338558558558558 ---
+

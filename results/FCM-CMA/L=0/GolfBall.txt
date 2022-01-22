@@ -1,0 +1,50 @@
+dataset: GolfBall
+--- cost function: 4002.0001369755637 ---
+--- execution time: 37.494927167892456 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.0002116933283 ---
+--- execution time: 43.243712186813354 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.000689157923 ---
+--- execution time: 42.123483419418335 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.0287004067304 ---
+--- execution time: 37.73503279685974 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.0352354489914 ---
+--- execution time: 40.855859994888306 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.000142629125 ---
+--- execution time: 42.670886516571045 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.0001451864177 ---
+--- execution time: 37.71144485473633 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4223.540055044459 ---
+--- execution time: 39.447582483291626 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.0054509898 ---
+--- execution time: 40.554083585739136 seconds ---
+--- rand index score: 1.0 ---
+
+dataset: GolfBall
+--- cost function: 4002.7743357902377 ---
+--- execution time: 42.427053928375244 seconds ---
+--- rand index score: 1.0 ---
+

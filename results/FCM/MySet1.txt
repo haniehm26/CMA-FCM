@@ -1,0 +1,4 @@
+dataset: MySet1
+--- execution time: 0.011969566345214844 seconds ---
+--- rand index score: 0.8560606060606061 ---
+

@@ -1,0 +1,4 @@
+dataset: Tetra
+--- execution time: 0.007963418960571289 seconds ---
+--- rand index score: 1.0 ---
+

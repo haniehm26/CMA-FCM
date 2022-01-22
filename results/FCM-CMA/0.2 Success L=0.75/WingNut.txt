@@ -1,0 +1,50 @@
+dataset: WingNut
+--- cost function: -29.57264485283713 ---
+--- execution time: 5.541991710662842 seconds ---
+--- rand index score: 0.5431441759435243 ---
+
+dataset: WingNut
+--- cost function: -1378.7995456710348 ---
+--- execution time: 5.875826835632324 seconds ---
+--- rand index score: 0.9538264613475039 ---
+
+dataset: WingNut
+--- cost function: -175.4814357397429 ---
+--- execution time: 5.7161970138549805 seconds ---
+--- rand index score: 0.7914743415693728 ---
+
+dataset: WingNut
+--- cost function: -250.28938506181726 ---
+--- execution time: 5.610845327377319 seconds ---
+--- rand index score: 0.8818354602226446 ---
+
+dataset: WingNut
+--- cost function: -172.16167104744022 ---
+--- execution time: 5.700512647628784 seconds ---
+--- rand index score: 0.6197529188161824 ---
+
+dataset: WingNut
+--- cost function: -89.78311538400851 ---
+--- execution time: 5.911528587341309 seconds ---
+--- rand index score: 0.854776773592956 ---
+
+dataset: WingNut
+--- cost function: -728.0980101382527 ---
+--- execution time: 5.41740083694458 seconds ---
+--- rand index score: 0.8581048058647841 ---
+
+dataset: WingNut
+--- cost function: -851.130580940559 ---
+--- execution time: 5.902293920516968 seconds ---
+--- rand index score: 0.7621504208525658 ---
+
+dataset: WingNut
+--- cost function: -109.18046783818454 ---
+--- execution time: 5.51595139503479 seconds ---
+--- rand index score: 0.9785597920949537 ---
+
+dataset: WingNut
+--- cost function: -1979.4167419291891 ---
+--- execution time: 6.012598514556885 seconds ---
+--- rand index score: 0.5192913385826772 ---
+

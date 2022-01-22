@@ -1,0 +1,4 @@
+dataset: Target
+--- execution time: 0.0658261775970459 seconds ---
+--- rand index score: 0.6971847398375357 ---
+

@@ -1,0 +1,50 @@
+dataset: Atom
+--- cost function: 13108.105934508576 ---
+--- execution time: 10.703466653823853 seconds ---
+--- rand index score: 0.5025782227784731 ---
+
+dataset: Atom
+--- cost function: 13048.094154552082 ---
+--- execution time: 11.36650562286377 seconds ---
+--- rand index score: 0.5219806007509387 ---
+
+dataset: Atom
+--- cost function: 13206.102189114003 ---
+--- execution time: 10.931543111801147 seconds ---
+--- rand index score: 0.5001752190237797 ---
+
+dataset: Atom
+--- cost function: 13230.351649748409 ---
+--- execution time: 11.128400325775146 seconds ---
+--- rand index score: 0.49957446808510636 ---
+
+dataset: Atom
+--- cost function: 13184.218057454098 ---
+--- execution time: 10.982897758483887 seconds ---
+--- rand index score: 0.5189017521902378 ---
+
+dataset: Atom
+--- cost function: 13452.565738721574 ---
+--- execution time: 10.838153839111328 seconds ---
+--- rand index score: 0.5214518147684606 ---
+
+dataset: Atom
+--- cost function: 13242.809935929143 ---
+--- execution time: 11.01645541191101 seconds ---
+--- rand index score: 0.5020056320400501 ---
+
+dataset: Atom
+--- cost function: 13226.962951363761 ---
+--- execution time: 8.289572477340698 seconds ---
+--- rand index score: 0.5134198998748436 ---
+
+dataset: Atom
+--- cost function: 13559.771601416307 ---
+--- execution time: 8.575109243392944 seconds ---
+--- rand index score: 0.5027816020025031 ---
+
+dataset: Atom
+--- cost function: 20963.418005101405 ---
+--- execution time: 10.925731420516968 seconds ---
+--- rand index score: 0.6030162703379224 ---
+

@@ -1,0 +1,4 @@
+dataset: TwoDiamonds
+--- execution time: 0.004987239837646484 seconds ---
+--- rand index score: 1.0 ---
+

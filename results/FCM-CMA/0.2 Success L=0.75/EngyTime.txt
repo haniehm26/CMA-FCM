@@ -1,0 +1,50 @@
+dataset: EngyTime
+--- cost function: -1058.3212136583334 ---
+--- execution time: 23.859820127487183 seconds ---
+--- rand index score: 0.8194092691163004 ---
+
+dataset: EngyTime
+--- cost function: -1811.9830085141875 ---
+--- execution time: 22.870808601379395 seconds ---
+--- rand index score: 0.5553385416666666 ---
+
+dataset: EngyTime
+--- cost function: -858.2372830740969 ---
+--- execution time: 24.251635789871216 seconds ---
+--- rand index score: 0.524563229739011 ---
+
+dataset: EngyTime
+--- cost function: -2986.3532366551026 ---
+--- execution time: 23.736127614974976 seconds ---
+--- rand index score: 0.7728347498855311 ---
+
+dataset: EngyTime
+--- cost function: -202.39852890282054 ---
+--- execution time: 22.478446006774902 seconds ---
+--- rand index score: 0.5372710622710622 ---
+
+dataset: EngyTime
+--- cost function: -4276.132639135655 ---
+--- execution time: 24.526662588119507 seconds ---
+--- rand index score: 0.6855921855921856 ---
+
+dataset: EngyTime
+--- cost function: -1339.0045164742605 ---
+--- execution time: 25.69767117500305 seconds ---
+--- rand index score: 0.7082689445970696 ---
+
+dataset: EngyTime
+--- cost function: -1914.9834148058744 ---
+--- execution time: 26.385120630264282 seconds ---
+--- rand index score: 0.7739182692307692 ---
+
+dataset: EngyTime
+--- cost function: -7541.43191790583 ---
+--- execution time: 25.324106216430664 seconds ---
+--- rand index score: 0.5053385416666667 ---
+
+dataset: EngyTime
+--- cost function: -12279.019811498078 ---
+--- execution time: 24.326436519622803 seconds ---
+--- rand index score: 0.6633824834020147 ---
+

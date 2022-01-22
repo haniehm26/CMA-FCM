@@ -1,0 +1,50 @@
+dataset: Tetra
+--- cost function: -133.15399712339467 ---
+--- execution time: 3.1284873485565186 seconds ---
+--- rand index score: 0.787531328320802 ---
+
+dataset: Tetra
+--- cost function: -11.71053801008054 ---
+--- execution time: 3.135594129562378 seconds ---
+--- rand index score: 0.9709398496240601 ---
+
+dataset: Tetra
+--- cost function: -89.17728568718394 ---
+--- execution time: 3.0869972705841064 seconds ---
+--- rand index score: 0.8261278195488722 ---
+
+dataset: Tetra
+--- cost function: -138.17800063337233 ---
+--- execution time: 2.796538829803467 seconds ---
+--- rand index score: 0.9210651629072681 ---
+
+dataset: Tetra
+--- cost function: -40.16268616061927 ---
+--- execution time: 2.864492416381836 seconds ---
+--- rand index score: 0.9925438596491228 ---
+
+dataset: Tetra
+--- cost function: -143.18950211243816 ---
+--- execution time: 3.1675174236297607 seconds ---
+--- rand index score: 0.7208395989974937 ---
+
+dataset: Tetra
+--- cost function: -81.71544251250089 ---
+--- execution time: 2.8698856830596924 seconds ---
+--- rand index score: 0.9272305764411027 ---
+
+dataset: Tetra
+--- cost function: -109.83552001647035 ---
+--- execution time: 2.9434194564819336 seconds ---
+--- rand index score: 0.9975062656641605 ---
+
+dataset: Tetra
+--- cost function: -149.52671923377716 ---
+--- execution time: 3.2805681228637695 seconds ---
+--- rand index score: 0.8978070175438596 ---
+
+dataset: Tetra
+--- cost function: -135.65571709275082 ---
+--- execution time: 2.9347667694091797 seconds ---
+--- rand index score: 0.8606766917293233 ---
+

@@ -1,0 +1,50 @@
+dataset: Lsun
+--- cost function: 339.4315783905739 ---
+--- execution time: 67.00522017478943 seconds ---
+--- rand index score: 0.7139473684210527 ---
+
+dataset: Lsun
+--- cost function: 245.79278236575408 ---
+--- execution time: 64.97429323196411 seconds ---
+--- rand index score: 0.885764411027569 ---
+
+dataset: Lsun
+--- cost function: 298.89977421848084 ---
+--- execution time: 62.70994162559509 seconds ---
+--- rand index score: 0.7110902255639098 ---
+
+dataset: Lsun
+--- cost function: 460.07509222363836 ---
+--- execution time: 25.4030339717865 seconds ---
+--- rand index score: 0.7520175438596491 ---
+
+dataset: Lsun
+--- cost function: 372.673814724091 ---
+--- execution time: 24.48249650001526 seconds ---
+--- rand index score: 0.7308771929824561 ---
+
+dataset: Lsun
+--- cost function: 275.4527802113232 ---
+--- execution time: 23.65969729423523 seconds ---
+--- rand index score: 0.8138471177944863 ---
+
+dataset: Lsun
+--- cost function: 472.7025681818711 ---
+--- execution time: 24.024728298187256 seconds ---
+--- rand index score: 0.8054010025062657 ---
+
+dataset: Lsun
+--- cost function: 451.1592252651757 ---
+--- execution time: 26.764004230499268 seconds ---
+--- rand index score: 0.7066917293233083 ---
+
+dataset: Lsun
+--- cost function: 361.1848359012288 ---
+--- execution time: 24.60220241546631 seconds ---
+--- rand index score: 0.7330200501253132 ---
+
+dataset: Lsun
+--- cost function: 261.88176218323554 ---
+--- execution time: 26.22340750694275 seconds ---
+--- rand index score: 0.8143734335839599 ---
+

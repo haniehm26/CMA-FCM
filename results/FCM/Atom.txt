@@ -1,0 +1,4 @@
+dataset: Atom
+--- execution time: 0.02792525291442871 seconds ---
+--- rand index score: 0.6111420525657071 ---
+

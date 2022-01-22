@@ -1,0 +1,4 @@
+dataset: WingNut
+--- execution time: 0.010971307754516602 seconds ---
+--- rand index score: 0.8852876149102052 ---
+
